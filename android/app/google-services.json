@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275996304353",
+    "project_id": "riverpod-seter-app",
+    "storage_bucket": "riverpod-seter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275996304353:android:109fe8eb182a229b04a8a0",
+        "android_client_info": {
+          "package_name": "com.applicationseter.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL5Ulhd6wMW5tS2XrGli7BR_R1zStFsoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
